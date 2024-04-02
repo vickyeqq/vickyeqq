@@ -11,8 +11,8 @@
 
 ### Tecnologias que mais uso:
 <div style="display: inline-block;">
-  <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087011-aeaceb87-67f7-4978-a428-769ed7af68c5.svg" />
-  <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+  <img height="30" width="40" src="https://user-images.githubusercontent.com/74669052/211087011-aeaceb87-67f7-4978-a428-769ed7af68c5.svg" />
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 </div>
 
 <hr style="background-color: darkgray; border-radius: 3px; ">
