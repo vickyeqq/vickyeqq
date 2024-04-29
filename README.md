@@ -2,7 +2,7 @@
 - 💻 Em transição de carreira para a área de tecnologia.
 - 📚 Estudando Sistemas de Informação na FIAP.
 
-<img alt="Imagem Mulher Programando" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+  <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087011-aeaceb87-67f7-4978-a428-769ed7af68c5.svg" />
 
 <hr style="background-color: pink; border-radius: 1px; ">
 
@@ -17,7 +17,7 @@
   <img height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 </div>
 
-<hr style="background-color: darkgray; border-radius: 3px; ">
+<hr style="background-color: pink; border-radius: 1px; ">
 
 ### Contato
 <div style="display: inline_block" >
