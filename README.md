@@ -1,15 +1,15 @@
-# Olá, mundo! 🌍 
-# Eu sou a Vitoria Lana Caetano de Farias 🌸
-
+# Olá, mundo! 🌍 Eu sou a Vitoria Lana Caetano de Farias 🌸
 
 <p align="center">
-  <img height="300em" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" align="right"/>
+  <img height="200em" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" align="right"/>
 </p>
 
 👩‍💻 Em transição de carreira da área administrativa para a área de tecnologia.<br>
 🎓 Estudante de Sistemas de Informação na FIAP.<br>
 
-Paixão por artes e tecnologia, dentre meus hobbies estão jogos, assistir, ler e explorar novidades no mundo tech.
+Paixão por artes e tecnologia, dentre meus hobbies estão jogar, ler e explorar novidades no mundo tech.
+
+<hr style="background-color: #ffcccb; border-radius: 1px; ">
 
 ## Estatísticas GitHub
 
