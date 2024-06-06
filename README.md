@@ -1,4 +1,4 @@
-# Olá, mundo! 🌍 Eu sou a Vitoria Lana Caetano de Farias 🌸
+# Olá, mundo! 🌍 Eu sou a Vitoria Lana  🌸
 
 👩‍💻 Em transição de carreira da área administrativa para a área de tecnologia.<br>
 🎓 Estudante de Sistemas de Informação na FIAP.<br>
