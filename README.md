@@ -12,7 +12,6 @@ Paixão por artes e tecnologia, dentre meus hobbies estão jogar, ler e explorar
 ## Estatísticas GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vickyeqq&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyeqq&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
